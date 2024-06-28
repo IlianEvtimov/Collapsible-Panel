@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.543,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi Exams\Delphi Components\Collapsible Panel Project\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi Exams\Delphi Components\Collapsible Panel Project\CollapsiblePanel.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Delphi Exams\Delphi Components\Collapsible Panel Project\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.918,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.183,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.229,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024.06.28 14:39:56.567,C:\Delphi Exams\Delphi Components\Collapsible Panel Project\CollapsiblePanelProject.dproj=C:\Delphi Exams\Delphi Components\Collapsible Panel Project\CollapsiblePanel.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
