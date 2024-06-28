@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.266,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.034,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,C:\Delphi Exams\Delphi Components\Collapsible Panel\CollapsiblePanel.pas=C:\Delphi Exams\Delphi Components\Collapsible Panel\Panel1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.183,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,=C:\Delphi Exams\Delphi Components\Collapsible Panel\Panel1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,C:\Delphi Exams\Delphi Components\Collapsible Panel\TCollapsiblePanelPack.dproj=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,=vclimg.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
