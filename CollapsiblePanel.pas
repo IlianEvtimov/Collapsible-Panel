@@ -27,6 +27,7 @@ type
     procedure LoadImages;
     procedure SetImage;
     procedure ImageClick(Sender : TObject);
+//    procedure ImageClick(Sender : TObject);
   protected
     { Protected declarations }
     procedure Resize; override;
